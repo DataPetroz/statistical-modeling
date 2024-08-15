@@ -1,1 +1,1 @@
-# statistical-modeling
+# Statistical Modeling
